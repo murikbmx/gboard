@@ -1,0 +1,14 @@
+soong_namespace {
+}
+
+android_app_import {
+    name: "GboardWu",
+    apk: "prebuilts/GboardWu.apk",
+    presigned: true,
+    preprocessed: true,
+    dex_preopt: {
+        enabled: false,
+    },
+    product_specific: true,
+    overrides: ["LatinIME"],
+}
