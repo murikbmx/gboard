@@ -1,6 +1,6 @@
 # GboardWu prebuilt for LineageOS
 
-Gboard 18.5.4.993608717 (arm64-v8a) with Gboard Patches v4.1,
+Gboard 18.5.4.993608717 (arm64-v8a) with Gboard Patches v4.1.1,
 package `dev.jason.com.google.android.inputmethod.latin`.
 
 Installed as a regular (non-privileged) presigned app in `/product/app`,
